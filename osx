@@ -1,7 +1,6 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap caskroom/cask
 
-brew cask install atom
 brew cask install google-chrome
 brew cask install firefox
 brew cask install google-drive
@@ -10,7 +9,6 @@ brew cask install iterm2
 brew cask install utorrent
 brew cask install caffeine
 brew cask install whatsapp
-brew cask install mongochef
 brew cask install vlc
 brew cask install skype
 brew cask install messenger
@@ -19,18 +17,10 @@ brew cask install slack
 brew cask install alfred
 brew cask install imageoptim
 brew cask install crashplan
-brew cask install 
-
-
+brew cask install alfred
+brew cask install sublime-text
+brew cask install visual-studio-code
 
 brew install node
 brew install nvm
 brew install git
-
-
-
-
-brew cask install alfred
-
-
-brew cask install sublime-text
